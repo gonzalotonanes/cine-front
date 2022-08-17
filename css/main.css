@@ -1,0 +1,40 @@
+.main{
+    margin-top: 70px;
+    
+}
+
+.input-cantidad{
+    background-color: #000;
+    color: rgba(255, 0, 32);
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.label-cantidad{
+    color: rgba(255, 0, 32);
+    margin: 0 auto;
+    margin-top: 15px ;
+}
+
+.contenedor-titulo{
+    margin-top: 35px;
+    text-align: center;
+    color: rgba(255, 0, 32);
+    box-shadow: 5px 5px 20px rgba(255, 0, 32);
+    border-radius: 10px;
+}
+
+#datos{
+    margin-top: 15px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#boton-comprar{
+    
+    display: block;
+    box-shadow: 5px 5px 20px rgba(255, 0, 32);
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 15px ;
+}

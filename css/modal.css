@@ -1,0 +1,25 @@
+#modall{
+    z-index: 100000 !important;
+
+    
+}
+
+.modal-content{
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 5px 5px 10px rgb(100, 225, 88);
+    background-color: #21AD8F;
+}
+
+.modal-title{
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.modal-footer{
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+}
